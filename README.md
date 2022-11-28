@@ -1,2 +1,0 @@
-# AgileintPPMTool
-personal project
